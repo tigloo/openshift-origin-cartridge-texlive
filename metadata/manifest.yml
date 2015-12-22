@@ -2,6 +2,7 @@
 Name: texlive
 Cartridge-Short-Name: texlive
 Display-Name: TeXLive 2015
+Source-Url: https://github.com/tigloo/openshift-origin-cartridge-texlive.git
 Description: A very small installation of TeXLive
 Version: '2015'
 License: "None"
