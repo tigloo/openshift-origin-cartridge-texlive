@@ -10,7 +10,7 @@ Vendor: Till Gerken
 Cartridge-Version: 0.0.1
 Cartridge-Vendor: tillgerken
 Categories:
-- utilities
+- embedded
 Provides:
 - texlive
 Cart-Data:
