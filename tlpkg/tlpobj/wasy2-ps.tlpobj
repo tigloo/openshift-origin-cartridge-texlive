@@ -1,0 +1,39 @@
+name wasy2-ps
+category Package
+revision 35830
+shortdesc Type 1 versions of wasy2 fonts.
+longdesc Converted (Adobe Type 1) outlines of (some of) the wasy2 fonts.
+depend wasy
+execute addMixedMap wasy.map
+containersize 214476
+containermd5 486b867d61818a1c6a259fab8407cbe2
+doccontainersize 1000
+doccontainermd5 78776cce25b10d1646a11e24edc5d2c4
+docfiles size=1
+ texmf-dist/doc/fonts/wasy2-ps/README details="Readme"
+runfiles size=83
+ texmf-dist/fonts/afm/public/wasy2-ps/wasy10.afm
+ texmf-dist/fonts/afm/public/wasy2-ps/wasy5.afm
+ texmf-dist/fonts/afm/public/wasy2-ps/wasy6.afm
+ texmf-dist/fonts/afm/public/wasy2-ps/wasy7.afm
+ texmf-dist/fonts/afm/public/wasy2-ps/wasy8.afm
+ texmf-dist/fonts/afm/public/wasy2-ps/wasy9.afm
+ texmf-dist/fonts/afm/public/wasy2-ps/wasyb10.afm
+ texmf-dist/fonts/map/dvips/wasy2-ps/wasy.map
+ texmf-dist/fonts/type1/public/wasy2-ps/wasy10.pfb
+ texmf-dist/fonts/type1/public/wasy2-ps/wasy10.pfm
+ texmf-dist/fonts/type1/public/wasy2-ps/wasy5.pfb
+ texmf-dist/fonts/type1/public/wasy2-ps/wasy5.pfm
+ texmf-dist/fonts/type1/public/wasy2-ps/wasy6.pfb
+ texmf-dist/fonts/type1/public/wasy2-ps/wasy6.pfm
+ texmf-dist/fonts/type1/public/wasy2-ps/wasy7.pfb
+ texmf-dist/fonts/type1/public/wasy2-ps/wasy7.pfm
+ texmf-dist/fonts/type1/public/wasy2-ps/wasy8.pfb
+ texmf-dist/fonts/type1/public/wasy2-ps/wasy8.pfm
+ texmf-dist/fonts/type1/public/wasy2-ps/wasy9.pfb
+ texmf-dist/fonts/type1/public/wasy2-ps/wasy9.pfm
+ texmf-dist/fonts/type1/public/wasy2-ps/wasyb10.pfb
+ texmf-dist/fonts/type1/public/wasy2-ps/wasyb10.pfm
+catalogue-ctan /fonts/wasy2/ps-type1/hoekwater
+catalogue-date 2014-12-19 15:21:31 +0100
+catalogue-license pd

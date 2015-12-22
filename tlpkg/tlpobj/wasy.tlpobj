@@ -1,0 +1,40 @@
+name wasy
+category Package
+revision 35831
+catalogue wasy2
+shortdesc The wasy fonts (Waldi symbol fonts).
+longdesc These are the wasy (Waldi symbol) fonts, second release. This
+longdesc bundle presents the fonts in Metafont format, but they are also
+longdesc available in Adobe Type 1 format. Support under LaTeX is
+longdesc provided by the wasysym package.
+containersize 21996
+containermd5 207691652ffa0afe6370aaf1628ef303
+doccontainersize 148948
+doccontainermd5 e38f10a8b449e0fafda87ef2f3925d3d
+docfiles size=53
+ texmf-dist/doc/fonts/wasy/legal.txt
+ texmf-dist/doc/fonts/wasy/wasydoc.pdf details="Package documentation"
+ texmf-dist/doc/fonts/wasy/wasydoc.tex
+ texmf-dist/doc/fonts/wasy/wasyfont.2
+runfiles size=46
+ texmf-dist/fonts/source/public/wasy/lasychr.mf
+ texmf-dist/fonts/source/public/wasy/rsym.mf
+ texmf-dist/fonts/source/public/wasy/wasy10.mf
+ texmf-dist/fonts/source/public/wasy/wasy5.mf
+ texmf-dist/fonts/source/public/wasy/wasy6.mf
+ texmf-dist/fonts/source/public/wasy/wasy7.mf
+ texmf-dist/fonts/source/public/wasy/wasy8.mf
+ texmf-dist/fonts/source/public/wasy/wasy9.mf
+ texmf-dist/fonts/source/public/wasy/wasyb10.mf
+ texmf-dist/fonts/source/public/wasy/wasychr.mf
+ texmf-dist/fonts/tfm/public/wasy/wasy10.tfm
+ texmf-dist/fonts/tfm/public/wasy/wasy5.tfm
+ texmf-dist/fonts/tfm/public/wasy/wasy6.tfm
+ texmf-dist/fonts/tfm/public/wasy/wasy7.tfm
+ texmf-dist/fonts/tfm/public/wasy/wasy8.tfm
+ texmf-dist/fonts/tfm/public/wasy/wasy9.tfm
+ texmf-dist/fonts/tfm/public/wasy/wasyb10.tfm
+ texmf-dist/tex/plain/wasy/wasyfont.tex
+catalogue-ctan /fonts/wasy2
+catalogue-date 2015-02-11 00:12:23 +0100
+catalogue-license pd

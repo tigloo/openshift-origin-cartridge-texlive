@@ -1,0 +1,1682 @@
+Loading http://ctan.mirrorcatalogs.com/systems/texlive/tlnet/tlpkg/texlive.tlpdb
+Installing TeX Live 2015 from: http://ctan.mirrorcatalogs.com/systems/texlive/tlnet
+Platform: x86_64-linux => 'GNU/Linux on x86_64'
+Distribution: net  (downloading)
+Using URL: http://ctan.mirrorcatalogs.com/systems/texlive/tlnet
+Directory for temporary files: /tmp/
+Installer revision: 37482
+Database revision: 39147
+Settings:
+  TEXDIR: "/var/lib/openshift/567800c80c1e663fd8000164/app-root/repo/tmp/texlive"
+  TEXMFCONFIG: "$TEXMFSYSCONFIG"
+  TEXMFHOME: "$TEXMFLOCAL"
+  TEXMFLOCAL: "/var/lib/openshift/567800c80c1e663fd8000164/app-root/repo/tmp/texlive/texmf-local"
+  TEXMFSYSCONFIG: "/var/lib/openshift/567800c80c1e663fd8000164/app-root/repo/tmp/texlive/texmf-config"
+  TEXMFSYSVAR: "/var/lib/openshift/567800c80c1e663fd8000164/app-root/repo/tmp/texlive/texmf-var"
+  TEXMFVAR: "$TEXMFSYSVAR"
+  binary_alpha-linux: "0"
+  binary_amd64-freebsd: "0"
+  binary_amd64-netbsd: "0"
+  binary_armel-linux: "0"
+  binary_armhf-linux: "0"
+  binary_i386-cygwin: "0"
+  binary_i386-freebsd: "0"
+  binary_i386-linux: "0"
+  binary_i386-netbsd: "0"
+  binary_i386-solaris: "0"
+  binary_mipsel-linux: "0"
+  binary_powerpc-linux: "0"
+  binary_sparc-solaris: "0"
+  binary_universal-darwin: "0"
+  binary_win32: "0"
+  binary_x86_64-cygwin: "0"
+  binary_x86_64-darwin: "0"
+  binary_x86_64-linux: "1"
+  binary_x86_64-solaris: "0"
+  collection-basic: "1"
+  collection-bibtexextra: "0"
+  collection-binextra: "0"
+  collection-context: "0"
+  collection-fontsextra: "0"
+  collection-fontsrecommended: "0"
+  collection-fontutils: "0"
+  collection-formatsextra: "0"
+  collection-games: "0"
+  collection-genericextra: "0"
+  collection-genericrecommended: "0"
+  collection-htmlxml: "0"
+  collection-humanities: "0"
+  collection-langafrican: "0"
+  collection-langarabic: "0"
+  collection-langchinese: "0"
+  collection-langcjk: "0"
+  collection-langcyrillic: "0"
+  collection-langczechslovak: "0"
+  collection-langenglish: "0"
+  collection-langeuropean: "0"
+  collection-langfrench: "0"
+  collection-langgerman: "0"
+  collection-langgreek: "0"
+  collection-langindic: "0"
+  collection-langitalian: "0"
+  collection-langjapanese: "0"
+  collection-langkorean: "0"
+  collection-langother: "0"
+  collection-langpolish: "0"
+  collection-langportuguese: "0"
+  collection-langspanish: "0"
+  collection-latex: "1"
+  collection-latexextra: "0"
+  collection-latexrecommended: "0"
+  collection-luatex: "0"
+  collection-mathextra: "0"
+  collection-metapost: "0"
+  collection-music: "0"
+  collection-omega: "0"
+  collection-pictures: "0"
+  collection-plainextra: "0"
+  collection-pstricks: "0"
+  collection-publishers: "0"
+  collection-science: "0"
+  collection-texworks: "0"
+  collection-wintools: "0"
+  collection-xetex: "0"
+  doc_splitting_supported: "1"
+  in_place: "0"
+  inst_platform: "x86_64-linux"
+  n_collections_available: "48"
+  n_collections_selected: "2"
+  n_systems_available: "19"
+  n_systems_selected: "1"
+  option_adjustrepo: "1"
+  option_autobackup: "1"
+  option_backupdir: "tlpkg/backups"
+  option_desktop_integration: "1"
+  option_doc: "1"
+  option_file_assocs: "1"
+  option_fmt: "1"
+  option_letter: "0"
+  option_menu_integration: "1"
+  option_path: "1"
+  option_post_code: "1"
+  option_src: "1"
+  option_sys_bin: "/usr/local/bin"
+  option_sys_info: "/usr/local/share/info"
+  option_sys_man: "/usr/local/share/man"
+  option_w32_multi_user: "1"
+  option_write18_restricted: "1"
+  page: "0"
+  portable: "1"
+  scheme-basic: "1"
+  scheme-context: "0"
+  scheme-full: "0"
+  scheme-gust: "0"
+  scheme-medium: "0"
+  scheme-minimal: "0"
+  scheme-small: "0"
+  scheme-tetex: "0"
+  scheme-xml: "0"
+  selected_scheme: "scheme-basic"
+  src_splitting_supported: "1"
+  this_platform: "x86_64-linux"
+  total_size: "165"
+Installing to: /var/lib/openshift/567800c80c1e663fd8000164/app-root/repo/tmp/texlive
+Installing [01/85, time/total: ??:??/??:??]: ae [84k]
+Installing [02/85, time/total: 00:01/14:36]: amscls [1279k]
+Installing [03/85, time/total: 00:03/02:40]: amsfonts [4725k]
+Installing [04/85, time/total: 00:06/01:11]: amsmath [2256k]
+Installing [05/85, time/total: 00:08/01:09]: babel [492k]
+Installing [06/85, time/total: 00:09/01:14]: babel-english [134k]
+Installing [07/85, time/total: 00:10/01:21]: babelbib [1239k]
+Installing [08/85, time/total: 00:11/01:18]: bibtex [389k]
+Installing [09/85, time/total: 00:12/01:22]: bibtex.x86_64-linux [70k]
+Installing [10/85, time/total: 00:12/01:21]: carlisle [34k]
+Installing [11/85, time/total: 00:13/01:28]: cm [237k]
+Installing [12/85, time/total: 00:13/01:26]: collection-basic [1k]
+Installing [13/85, time/total: 00:14/01:33]: collection-latex [1k]
+Installing [14/85, time/total: 00:14/01:33]: colortbl [556k]
+Installing [15/85, time/total: 00:15/01:35]: dvipdfmx [344k]
+Installing [16/85, time/total: 00:15/01:32]: dvipdfmx-def [49k]
+Installing [17/85, time/total: 00:16/01:38]: dvipdfmx.x86_64-linux [370k]
+Installing [18/85, time/total: 00:16/01:35]: dvips [627k]
+Installing [19/85, time/total: 00:18/01:41]: dvips.x86_64-linux [138k]
+Installing [20/85, time/total: 00:19/01:46]: enctex [272k]
+Installing [21/85, time/total: 00:20/01:49]: etex [197k]
+Installing [22/85, time/total: 00:20/01:48]: etex-pkg [6k]
+Installing [23/85, time/total: 00:21/01:53]: fancyhdr [250k]
+Installing [24/85, time/total: 00:22/01:56]: fix2col [217k]
+Installing [25/85, time/total: 00:22/01:54]: geometry [228k]
+Installing [26/85, time/total: 00:24/02:03]: glyphlist [25k]
+Installing [27/85, time/total: 00:24/02:02]: graphics [1646k]
+Installing [28/85, time/total: 00:26/01:59]: gsftopk [16k]
+Installing [29/85, time/total: 00:27/02:03]: gsftopk.x86_64-linux [39k]
+Installing [30/85, time/total: 00:27/02:03]: hyperref [3729k]
+Installing [31/85, time/total: 00:32/01:58]: hyph-utf8 [1698k]
+Installing [32/85, time/total: 00:34/01:56]: hyphen-base [22k]
+Installing [33/85, time/total: 00:35/01:59]: ifluatex [132k]
+Installing [34/85, time/total: 00:35/01:58]: ifxetex [166k]
+Installing [35/85, time/total: 00:37/02:04]: knuth-lib [30k]
+Installing [36/85, time/total: 00:37/02:04]: knuth-local [23k]
+Installing [37/85, time/total: 00:37/02:04]: kpathsea [1011k]
+Installing [38/85, time/total: 00:39/02:05]: kpathsea.x86_64-linux [45k]
+Installing [39/85, time/total: 00:39/02:04]: latex [12811k]
+Installing [40/85, time/total: 00:45/01:32]: latex-bin [20k]
+Installing [41/85, time/total: 00:45/01:32]: latex-bin.x86_64-linux [1k]
+Installing [42/85, time/total: 00:45/01:32]: latex-fonts [19k]
+Installing [43/85, time/total: 00:46/01:34]: latexconfig [7k]
+Installing [44/85, time/total: 00:46/01:34]: ltxmisc [16k]
+Installing [45/85, time/total: 00:46/01:33]: lua-alt-getopt [6k]
+Installing [46/85, time/total: 00:47/01:36]: luatex [946k]
+Installing [47/85, time/total: 00:48/01:35]: luatex.x86_64-linux [4786k]
+Installing [48/85, time/total: 00:51/01:29]: makeindex [423k]
+Installing [49/85, time/total: 00:51/01:28]: makeindex.x86_64-linux [46k]
+Installing [50/85, time/total: 00:52/01:30]: metafont [68k]
+Installing [51/85, time/total: 00:52/01:30]: metafont.x86_64-linux [181k]
+Installing [52/85, time/total: 00:53/01:31]: mflogo [242k]
+Installing [53/85, time/total: 00:54/01:32]: mfnfss [187k]
+Installing [54/85, time/total: 00:55/01:34]: mfware [27k]
+Installing [55/85, time/total: 00:56/01:35]: mfware.x86_64-linux [117k]
+Installing [56/85, time/total: 00:56/01:35]: mptopdf [41k]
+Installing [57/85, time/total: 00:57/01:37]: mptopdf.x86_64-linux [1k]
+Installing [58/85, time/total: 00:57/01:37]: natbib [493k]
+Installing [59/85, time/total: 00:58/01:37]: oberdiek [15839k]
+Installing [60/85, time/total: 01:04/01:18]: pdftex [2873k]
+Installing [61/85, time/total: 01:06/01:17]: pdftex-def [14k]
+Installing [62/85, time/total: 01:06/01:17]: pdftex.x86_64-linux [747k]
+Installing [63/85, time/total: 01:07/01:17]: plain [59k]
+Installing [64/85, time/total: 01:08/01:18]: pslatex [7k]
+Installing [65/85, time/total: 01:08/01:18]: psnfss [502k]
+Installing [66/85, time/total: 01:10/01:20]: pspicture [50k]
+Installing [67/85, time/total: 01:11/01:21]: tetex [394k]
+Installing [68/85, time/total: 01:12/01:22]: tetex.x86_64-linux [1k]
+Installing [69/85, time/total: 01:12/01:22]: tex [23k]
+Installing [70/85, time/total: 01:12/01:22]: tex.x86_64-linux [168k]
+Installing [71/85, time/total: 01:13/01:23]: texconfig [22k]
+Installing [72/85, time/total: 01:14/01:24]: texconfig.x86_64-linux [1k]
+Installing [73/85, time/total: 01:14/01:24]: texlive-common [260k]
+Installing [74/85, time/total: 01:15/01:25]: texlive-docindex [215k]
+Installing [75/85, time/total: 01:15/01:24]: texlive-en [1599k]
+Installing [76/85, time/total: 01:17/01:25]: texlive-msg-translations [110k]
+Installing [77/85, time/total: 01:17/01:24]: texlive-scripts [106k]
+Installing [78/85, time/total: 01:18/01:25]: texlive-scripts.x86_64-linux [1k]
+Installing [79/85, time/total: 01:18/01:25]: texlive.infra [302k]
+Installing [80/85, time/total: 01:19/01:26]: texlive.infra.x86_64-linux [91k]
+Installing [81/85, time/total: 01:20/01:27]: tools [5128k]
+Installing [82/85, time/total: 01:23/01:24]: unicode-data [212k]
+Installing [83/85, time/total: 01:23/01:24]: url [266k]
+Installing [84/85, time/total: 01:24/01:24]: xdvi [158k]
+Installing [85/85, time/total: 01:25/01:25]: xdvi.x86_64-linux [482k]
+Time used for installing the packages: 01:26
+running mktexlsr /var/lib/openshift/567800c80c1e663fd8000164/app-root/repo/tmp/texlive/texmf-dist ...
+writing fmtutil.cnf to /var/lib/openshift/567800c80c1e663fd8000164/app-root/repo/tmp/texlive/texmf-dist/web2c/fmtutil.cnf
+writing updmap.cfg to /var/lib/openshift/567800c80c1e663fd8000164/app-root/repo/tmp/texlive/texmf-dist/web2c/updmap.cfg
+writing language.dat to /var/lib/openshift/567800c80c1e663fd8000164/app-root/repo/tmp/texlive/texmf-var/tex/generic/config/language.dat
+writing language.def to /var/lib/openshift/567800c80c1e663fd8000164/app-root/repo/tmp/texlive/texmf-var/tex/generic/config/language.def
+writing language.dat.lua to /var/lib/openshift/567800c80c1e663fd8000164/app-root/repo/tmp/texlive/texmf-var/tex/generic/config/language.dat.lua
+running mktexlsr /var/lib/openshift/567800c80c1e663fd8000164/app-root/repo/tmp/texlive/texmf-var /var/lib/openshift/567800c80c1e663fd8000164/app-root/repo/tmp/texlive/texmf-config /var/lib/openshift/567800c80c1e663fd8000164/app-root/repo/tmp/texlive/texmf-dist ...
+running updmap-sys --nohash ...done
+updmap will read the following updmap.cfg files (in precedence order):
+  /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-dist/web2c/updmap.cfg
+updmap may write changes to the following updmap.cfg file:
+  /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-config/web2c/updmap.cfg
+dvips output dir: "/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/fonts/map/dvips/updmap"
+pdftex output dir: "/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/fonts/map/pdftex/updmap"
+dvipdfmx output dir: "/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/fonts/map/dvipdfmx/updmap"
+
+updmap is creating new map files
+using the following configuration:
+  LW35 font names                  : URWkb (/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-dist/web2c/updmap.cfg)
+  prefer outlines                  : true (/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-dist/web2c/updmap.cfg)
+  texhash enabled                  : false
+  download standard fonts (dvips)  : true (/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-dist/web2c/updmap.cfg)
+  download standard fonts (pdftex) : true (/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-dist/web2c/updmap.cfg)
+  kanjiEmbed replacement string    : noEmbed (/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-dist/web2c/updmap.cfg)
+  kanjiVariant replacement string  :  (default)
+  create a mapfile for pxdvi       : false (default)
+
+Scanning for LW35 support files  [  3 files]
+Scanning for MixedMap entries    [  6 files]
+Scanning for KanjiMap entries    [  0 files]
+Scanning for Map entries         [  7 files]
+
+Generating output for dvipdfmx...
+Generating output for ps2pk...
+Generating output for dvips...
+Generating output for pdftex...
+
+Files generated:
+  /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/fonts/map/dvips/updmap:
+       15904 2015-12-21 20:19:04 builtin35.map
+       21377 2015-12-21 20:19:04 download35.map
+       24051 2015-12-21 20:19:04 psfonts_pk.map
+       27902 2015-12-21 20:19:04 psfonts_t1.map
+       27897 2015-12-21 20:19:04 ps2pk.map
+          14 2015-12-21 20:19:04 psfonts.map -> psfonts_t1.map
+  /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/fonts/map/pdftex/updmap:
+       27904 2015-12-21 20:19:04 pdftex_dl14.map
+       26239 2015-12-21 20:19:04 pdftex_ndl14.map
+          15 2015-12-21 20:19:04 pdftex.map -> pdftex_dl14.map
+  /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/fonts/map/dvipdfmx/updmap:
+         427 2015-12-21 20:19:04 kanjix.map
+
+Transcript written on "/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/web2c/updmap.log".
+re-running mktexlsr /var/lib/openshift/567800c80c1e663fd8000164/app-root/repo/tmp/texlive/texmf-var /var/lib/openshift/567800c80c1e663fd8000164/app-root/repo/tmp/texlive/texmf-config ...
+pre-generating all format files, be patient...
+running fmtutil-sys --no-error-if-no-engine=luajittex --all ...done
+fmtutil: fmtutil is using the following fmtutil.cnf files (in precedence order):
+fmtutil:   /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-dist/web2c/fmtutil.cnf
+fmtutil: fmtutil is using the following fmtutil.cnf file for writing changes:
+fmtutil:   /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-config/web2c/fmtutil.cnf
+fmtutil [INFO]: writing formats under /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/web2c
+fmtutil [INFO]: --- remaking luatex with luatex
+fmtutil: running `luatex -ini   -jobname=luatex -progname=luatex luatex.ini' ...
+This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (INITEX)
+ restricted \write18 enabled.
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/config/luatex.ini
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/config/luatexiniconfig.tex)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/config/luatex-unicode-letters.tex
+loading Unicode properties)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/config/pdfetex.ini
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/config/pdftexconfig.tex)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/luatex/hyph-utf8/etex.src
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/base/plain.tex Preloading the plain format: codes,
+registers, parameters, fonts, more fonts, macros, math definitions,
+output routines, hyphenation
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/hyphen.tex
+[skipping from \patterns to end-of-file...]))
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/etex/etexdefs.lib Skipping module "grouptypes";
+Loading module "interactionmodes"; Skipping module "nodetypes";
+Skipping module "iftypes";)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-var/tex/generic/config/language.def
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/hyphen.tex))
+Augmenting the Plain TeX definitions: \tracingall;
+Adding new e-TeX definitions: \eTeX, \loggingall, \tracingnone,
+register allocation; extended register allocation; 
+Recycling: \addlanguage, \@nswer (not defined), \@sk, \b@dresponsetrue,
+\b@dresponsefalse, \ch@ckforyn, \mayber@cycle, \et@xabort, \et@xbuf,
+\et@xfmtsrc, \et@xfilehdr, \et@xinf, \et@xpatterns, \l@ngdefnfile, \n@xt,
+\p@rse (not defined), \pr@mpt (not defined), \pr@mptloop (not defined),
+\forcer@cycle, \usef@llback, \usef@llbacktrue, \usef@llbackfalse, 
+Retaining: \et@xerr, \et@xinput, \et@xlibhdr, \et@xmsg, \et@xtoks, \et@xwarn,
+\et@xl@@d, \et@xl@ad, \et@xload, \et@xlang, \et@xhash, \eTeX, \etexhdrchk,
+\etexstatus, \module, \uselanguage, \r@tain, \r@cycle,)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/config/pdftexmagfix.tex)))
+Beginning to dump on file luatex.fmt
+ (format=luatex 2015.12.21)
+3114 strings using 9573 bytes
+68807 memory locations dumped; current usage is 103&7731
+1712 multiletter control sequences
+\font\nullfont=nullfont
+\font\tenrm=cmr10
+\font\preloaded=cmr9
+\font\preloaded=cmr8
+\font\sevenrm=cmr7
+\font\preloaded=cmr6
+\font\fiverm=cmr5
+\font\teni=cmmi10
+\font\preloaded=cmmi9
+\font\preloaded=cmmi8
+\font\seveni=cmmi7
+\font\preloaded=cmmi6
+\font\fivei=cmmi5
+\font\tensy=cmsy10
+\font\preloaded=cmsy9
+\font\preloaded=cmsy8
+\font\sevensy=cmsy7
+\font\preloaded=cmsy6
+\font\fivesy=cmsy5
+\font\tenex=cmex10
+\font\preloaded=cmss10
+\font\preloaded=cmssq8
+\font\preloaded=cmssi10
+\font\preloaded=cmssqi8
+\font\tenbf=cmbx10
+\font\preloaded=cmbx9
+\font\preloaded=cmbx8
+\font\sevenbf=cmbx7
+\font\preloaded=cmbx6
+\font\fivebf=cmbx5
+\font\tentt=cmtt10
+\font\preloaded=cmtt9
+\font\preloaded=cmtt8
+\font\preloaded=cmsltt10
+\font\tensl=cmsl10
+\font\preloaded=cmsl9
+\font\preloaded=cmsl8
+\font\tenit=cmti10
+\font\preloaded=cmti9
+\font\preloaded=cmti8
+\font\preloaded=cmti7
+\font\preloaded=cmu10
+\font\preloaded=cmmib10
+\font\preloaded=cmbsy10
+\font\preloaded=cmcsc10
+\font\preloaded=cmssbx10
+\font\preloaded=cmdunh10
+\font\preloaded=cmr7 at 14.51799pt
+\font\preloaded=cmtt10 at 14.4pt
+\font\preloaded=cmssbx10 at 14.4pt
+\font\preloaded=manfnt
+50 preloaded fonts
+0 words of pdf memory
+0 indirect objects
+No pages of output.
+Transcript written on luatex.log.
+fmtutil [INFO]: /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/web2c/luatex/luatex.fmt installed.
+fmtutil [INFO]: --- remaking pdftex with pdftex
+fmtutil: running `pdftex -ini   -jobname=pdftex -progname=pdftex -translate-file=cp227.tcx *pdfetex.ini' ...
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (INITEX)
+ restricted \write18 enabled.
+ (/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-dist/web2c/cp227.tcx)
+entering extended mode
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/config/pdfetex.ini
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/config/pdftexconfig.tex)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/etex/etex.src
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/base/plain.tex Preloading the plain format: codes,
+registers, parameters, fonts, more fonts, macros, math definitions,
+output routines, hyphenation
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/hyphen.tex
+[skipping from \patterns to end-of-file...]))
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/etex/etexdefs.lib Skipping module "grouptypes";
+Loading module "interactionmodes"; Skipping module "nodetypes";
+Skipping module "iftypes";)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-var/tex/generic/config/language.def
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/hyphen.tex))
+Augmenting the Plain TeX definitions: \tracingall;
+Adding new e-TeX definitions: \eTeX, \loggingall, \tracingnone,
+register allocation; extended register allocation; 
+Recycling: \addlanguage, \@nswer (not defined), \@sk, \b@dresponsetrue,
+\b@dresponsefalse, \ch@ckforyn, \mayber@cycle, \et@xabort, \et@xbuf,
+\et@xfmtsrc, \et@xfilehdr, \et@xinf, \et@xpatterns, \l@ngdefnfile, \n@xt,
+\p@rse (not defined), \pr@mpt (not defined), \pr@mptloop (not defined),
+\forcer@cycle, \usef@llback, \usef@llbacktrue, \usef@llbackfalse, 
+Retaining: \et@xerr, \et@xinput, \et@xlibhdr, \et@xmsg, \et@xtoks, \et@xwarn,
+\et@xl@@d, \et@xl@ad, \et@xload, \et@xlang, \et@xhash, \eTeX, \etexhdrchk,
+\etexstatus, \module, \uselanguage, \r@tain, \r@cycle,)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/config/pdftexmagfix.tex) )
+Beginning to dump on file pdftex.fmt
+ (preloaded format=pdftex 2015.12.21)
+2890 strings of total length 44520
+7960 memory locations dumped; current usage is 203&7321
+1260 multiletter control sequences
+\font\nullfont=nullfont
+\font\tenrm=cmr10
+\font\preloaded=cmr9
+\font\preloaded=cmr8
+\font\sevenrm=cmr7
+\font\preloaded=cmr6
+\font\fiverm=cmr5
+\font\teni=cmmi10
+\font\preloaded=cmmi9
+\font\preloaded=cmmi8
+\font\seveni=cmmi7
+\font\preloaded=cmmi6
+\font\fivei=cmmi5
+\font\tensy=cmsy10
+\font\preloaded=cmsy9
+\font\preloaded=cmsy8
+\font\sevensy=cmsy7
+\font\preloaded=cmsy6
+\font\fivesy=cmsy5
+\font\tenex=cmex10
+\font\preloaded=cmss10
+\font\preloaded=cmssq8
+\font\preloaded=cmssi10
+\font\preloaded=cmssqi8
+\font\tenbf=cmbx10
+\font\preloaded=cmbx9
+\font\preloaded=cmbx8
+\font\sevenbf=cmbx7
+\font\preloaded=cmbx6
+\font\fivebf=cmbx5
+\font\tentt=cmtt10
+\font\preloaded=cmtt9
+\font\preloaded=cmtt8
+\font\preloaded=cmsltt10
+\font\tensl=cmsl10
+\font\preloaded=cmsl9
+\font\preloaded=cmsl8
+\font\tenit=cmti10
+\font\preloaded=cmti9
+\font\preloaded=cmti8
+\font\preloaded=cmti7
+\font\preloaded=cmu10
+\font\preloaded=cmmib10
+\font\preloaded=cmbsy10
+\font\preloaded=cmcsc10
+\font\preloaded=cmssbx10
+\font\preloaded=cmdunh10
+\font\preloaded=cmr7 at 14.51799pt
+\font\preloaded=cmtt10 at 14.4pt
+\font\preloaded=cmssbx10 at 14.4pt
+\font\preloaded=manfnt
+14787 words of font info for 50 preloaded fonts
+14 hyphenation exceptions
+Hyphenation trie of length 6075 has 181 ops out of 35111
+  181 for language 0
+0 words of pdfTeX memory
+0 indirect objects
+No pages of output.
+Transcript written on pdftex.log.
+fmtutil [INFO]: /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/web2c/pdftex/pdftex.fmt installed.
+fmtutil [INFO]: --- remaking tex with tex
+fmtutil: running `tex -ini   -jobname=tex -progname=tex tex.ini' ...
+This is TeX, Version 3.14159265 (TeX Live 2015) (INITEX)
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/config/tex.ini
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/base/plain.tex Preloading the plain format: codes,
+registers, parameters, fonts, more fonts, macros, math definitions,
+output routines, hyphenation
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/hyphen.tex)) )
+Beginning to dump on file tex.fmt
+ (preloaded format=tex 2015.12.21)
+2027 strings of total length 29828
+4990 memory locations dumped; current usage is 110&4877
+926 multiletter control sequences
+\font\nullfont=nullfont
+\font\tenrm=cmr10
+\font\preloaded=cmr9
+\font\preloaded=cmr8
+\font\sevenrm=cmr7
+\font\preloaded=cmr6
+\font\fiverm=cmr5
+\font\teni=cmmi10
+\font\preloaded=cmmi9
+\font\preloaded=cmmi8
+\font\seveni=cmmi7
+\font\preloaded=cmmi6
+\font\fivei=cmmi5
+\font\tensy=cmsy10
+\font\preloaded=cmsy9
+\font\preloaded=cmsy8
+\font\sevensy=cmsy7
+\font\preloaded=cmsy6
+\font\fivesy=cmsy5
+\font\tenex=cmex10
+\font\preloaded=cmss10
+\font\preloaded=cmssq8
+\font\preloaded=cmssi10
+\font\preloaded=cmssqi8
+\font\tenbf=cmbx10
+\font\preloaded=cmbx9
+\font\preloaded=cmbx8
+\font\sevenbf=cmbx7
+\font\preloaded=cmbx6
+\font\fivebf=cmbx5
+\font\tentt=cmtt10
+\font\preloaded=cmtt9
+\font\preloaded=cmtt8
+\font\preloaded=cmsltt10
+\font\tensl=cmsl10
+\font\preloaded=cmsl9
+\font\preloaded=cmsl8
+\font\tenit=cmti10
+\font\preloaded=cmti9
+\font\preloaded=cmti8
+\font\preloaded=cmti7
+\font\preloaded=cmu10
+\font\preloaded=cmmib10
+\font\preloaded=cmbsy10
+\font\preloaded=cmcsc10
+\font\preloaded=cmssbx10
+\font\preloaded=cmdunh10
+\font\preloaded=cmr7 at 14.51799pt
+\font\preloaded=cmtt10 at 14.4pt
+\font\preloaded=cmssbx10 at 14.4pt
+\font\preloaded=manfnt
+14787 words of font info for 50 preloaded fonts
+14 hyphenation exceptions
+Hyphenation trie of length 6075 has 181 ops out of 35111
+  181 for language 0
+No pages of output.
+Transcript written on tex.log.
+fmtutil [INFO]: /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/web2c/tex/tex.fmt installed.
+fmtutil [INFO]: --- remaking luajittex with luajittex
+fmtutil: running `luajittex -ini   -jobname=luajittex -progname=luajittex luatex.ini' ...
+This is LuajitTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (INITEX)
+ restricted \write18 enabled.
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/config/luatex.ini
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/config/luatexiniconfig.tex)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/config/luatex-unicode-letters.tex
+loading Unicode properties)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/config/pdfetex.ini
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/config/pdftexconfig.tex)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/luatex/hyph-utf8/etex.src
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/base/plain.tex Preloading the plain format: codes,
+registers, parameters, fonts, more fonts, macros, math definitions,
+output routines, hyphenation
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/hyphen.tex
+[skipping from \patterns to end-of-file...]))
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/etex/etexdefs.lib Skipping module "grouptypes";
+Loading module "interactionmodes"; Skipping module "nodetypes";
+Skipping module "iftypes";)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-var/tex/generic/config/language.def
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/hyphen.tex))
+Augmenting the Plain TeX definitions: \tracingall;
+Adding new e-TeX definitions: \eTeX, \loggingall, \tracingnone,
+register allocation; extended register allocation; 
+Recycling: \addlanguage, \@nswer (not defined), \@sk, \b@dresponsetrue,
+\b@dresponsefalse, \ch@ckforyn, \mayber@cycle, \et@xabort, \et@xbuf,
+\et@xfmtsrc, \et@xfilehdr, \et@xinf, \et@xpatterns, \l@ngdefnfile, \n@xt,
+\p@rse (not defined), \pr@mpt (not defined), \pr@mptloop (not defined),
+\forcer@cycle, \usef@llback, \usef@llbacktrue, \usef@llbackfalse, 
+Retaining: \et@xerr, \et@xinput, \et@xlibhdr, \et@xmsg, \et@xtoks, \et@xwarn,
+\et@xl@@d, \et@xl@ad, \et@xload, \et@xlang, \et@xhash, \eTeX, \etexhdrchk,
+\etexstatus, \module, \uselanguage, \r@tain, \r@cycle,)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/config/pdftexmagfix.tex)))
+Beginning to dump on file luajittex.fmt
+ (format=luajittex 2015.12.21)
+3114 strings using 9579 bytes
+68807 memory locations dumped; current usage is 103&7731
+1712 multiletter control sequences
+\font\nullfont=nullfont
+\font\tenrm=cmr10
+\font\preloaded=cmr9
+\font\preloaded=cmr8
+\font\sevenrm=cmr7
+\font\preloaded=cmr6
+\font\fiverm=cmr5
+\font\teni=cmmi10
+\font\preloaded=cmmi9
+\font\preloaded=cmmi8
+\font\seveni=cmmi7
+\font\preloaded=cmmi6
+\font\fivei=cmmi5
+\font\tensy=cmsy10
+\font\preloaded=cmsy9
+\font\preloaded=cmsy8
+\font\sevensy=cmsy7
+\font\preloaded=cmsy6
+\font\fivesy=cmsy5
+\font\tenex=cmex10
+\font\preloaded=cmss10
+\font\preloaded=cmssq8
+\font\preloaded=cmssi10
+\font\preloaded=cmssqi8
+\font\tenbf=cmbx10
+\font\preloaded=cmbx9
+\font\preloaded=cmbx8
+\font\sevenbf=cmbx7
+\font\preloaded=cmbx6
+\font\fivebf=cmbx5
+\font\tentt=cmtt10
+\font\preloaded=cmtt9
+\font\preloaded=cmtt8
+\font\preloaded=cmsltt10
+\font\tensl=cmsl10
+\font\preloaded=cmsl9
+\font\preloaded=cmsl8
+\font\tenit=cmti10
+\font\preloaded=cmti9
+\font\preloaded=cmti8
+\font\preloaded=cmti7
+\font\preloaded=cmu10
+\font\preloaded=cmmib10
+\font\preloaded=cmbsy10
+\font\preloaded=cmcsc10
+\font\preloaded=cmssbx10
+\font\preloaded=cmdunh10
+\font\preloaded=cmr7 at 14.51799pt
+\font\preloaded=cmtt10 at 14.4pt
+\font\preloaded=cmssbx10 at 14.4pt
+\font\preloaded=manfnt
+50 preloaded fonts
+0 words of pdf memory
+0 indirect objects
+No pages of output.
+Transcript written on luajittex.log.
+fmtutil [INFO]: /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/web2c/luajittex/luajittex.fmt installed.
+fmtutil [INFO]: --- remaking dvilualatex with luatex
+fmtutil: running `luatex -ini   -jobname=dvilualatex -progname=dvilualatex dvilualatex.ini' ...
+This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (INITEX)
+ restricted \write18 enabled.
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/latexconfig/dvilualatex.ini
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/config/pdftexconfig.tex)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/latex.ltx
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/texsys.cfg)
+./texsys.aux found
+
+
+\@currdir set to: ./.
+
+
+Assuming \openin and \input 
+have the same search path.
+
+
+Defining UNIX/DOS style filename parser.
+
+catcodes, registers, compatibility for TeX 2,  parameters,
+LaTeX2e <2015/10/01> patch level 2
+hacks, control, par, spacing, files, font encodings, lengths,
+====================================
+
+Local config file fonttext.cfg used
+
+====================================
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/fonttext.cfg
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/fonttext.ltx
+=== Don't modify this file, use a .cfg file instead ===
+
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/omlenc.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/t1enc.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/ot1enc.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/omsenc.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/t1cmr.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/ot1cmr.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/ot1cmss.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/ot1cmtt.fd)))
+====================================
+
+Local config file fontmath.cfg used
+
+====================================
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/fontmath.cfg
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/fontmath.ltx
+=== Don't modify this file, use a .cfg file instead ===
+
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/omlcmm.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/omscmsy.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/omxcmex.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/ucmr.fd)))
+====================================
+
+Local config file preload.cfg used
+
+=====================================
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/preload.cfg
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/preload.ltx)) page nos., x-ref, environments,
+center, verbatim, math definitions, boxes, title, sectioning, contents,
+floats, footnotes, index, bibliography, output,
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/unicode-letters.def)  Unicode character data,
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/unicode-letters.def)
+===========================================
+Local configuration file hyphen.cfg used
+===========================================
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/babel/hyphen.cfg
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/babel/luababel.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/babel/switch.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/hyphen.tex)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/dumyhyph.tex)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/zerohyph.tex))
+))
+Beginning to dump on file dvilualatex.fmt
+ (format=dvilualatex 2015.12.21)
+4981 strings using 29420 bytes
+153567 memory locations dumped; current usage is 124&48863
+3671 multiletter control sequences
+\font\nullfont=nullfont
+\font\OMX/cmex/m/n/10=cmex10
+\font\tenln=line10
+\font\tenlnw=linew10
+\font\tencirc=lcircle10
+\font\tencircw=lcirclew10
+\font\OT1/cmr/m/n/5=cmr5
+\font\OT1/cmr/m/n/7=cmr7
+\font\OT1/cmr/m/n/10=cmr10
+\font\OML/cmm/m/it/5=cmmi5
+\font\OML/cmm/m/it/7=cmmi7
+\font\OML/cmm/m/it/10=cmmi10
+\font\OMS/cmsy/m/n/5=cmsy5
+\font\OMS/cmsy/m/n/7=cmsy7
+\font\OMS/cmsy/m/n/10=cmsy10
+14 preloaded fonts
+0 words of pdf memory
+0 indirect objects
+No pages of output.
+Transcript written on dvilualatex.log.
+fmtutil [INFO]: /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/web2c/luatex/dvilualatex.fmt installed.
+fmtutil [INFO]: --- remaking lualatex with luatex
+fmtutil: running `luatex -ini   -jobname=lualatex -progname=lualatex lualatex.ini' ...
+This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (INITEX)
+ restricted \write18 enabled.
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/latexconfig/lualatex.ini
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/config/pdftexconfig.tex)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/latex.ltx
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/texsys.cfg)
+./texsys.aux found
+
+
+\@currdir set to: ./.
+
+
+Assuming \openin and \input 
+have the same search path.
+
+
+Defining UNIX/DOS style filename parser.
+
+catcodes, registers, compatibility for TeX 2,  parameters,
+LaTeX2e <2015/10/01> patch level 2
+hacks, control, par, spacing, files, font encodings, lengths,
+====================================
+
+Local config file fonttext.cfg used
+
+====================================
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/fonttext.cfg
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/fonttext.ltx
+=== Don't modify this file, use a .cfg file instead ===
+
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/omlenc.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/t1enc.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/ot1enc.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/omsenc.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/t1cmr.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/ot1cmr.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/ot1cmss.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/ot1cmtt.fd)))
+====================================
+
+Local config file fontmath.cfg used
+
+====================================
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/fontmath.cfg
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/fontmath.ltx
+=== Don't modify this file, use a .cfg file instead ===
+
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/omlcmm.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/omscmsy.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/omxcmex.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/ucmr.fd)))
+====================================
+
+Local config file preload.cfg used
+
+=====================================
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/preload.cfg
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/preload.ltx)) page nos., x-ref, environments,
+center, verbatim, math definitions, boxes, title, sectioning, contents,
+floats, footnotes, index, bibliography, output,
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/unicode-letters.def)  Unicode character data,
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/unicode-letters.def)
+===========================================
+Local configuration file hyphen.cfg used
+===========================================
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/babel/hyphen.cfg
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/babel/luababel.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/babel/switch.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/hyphen.tex)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/dumyhyph.tex)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/zerohyph.tex))
+))
+Beginning to dump on file lualatex.fmt
+ (format=lualatex 2015.12.21)
+4981 strings using 29408 bytes
+153561 memory locations dumped; current usage is 124&48860
+3671 multiletter control sequences
+\font\nullfont=nullfont
+\font\OMX/cmex/m/n/10=cmex10
+\font\tenln=line10
+\font\tenlnw=linew10
+\font\tencirc=lcircle10
+\font\tencircw=lcirclew10
+\font\OT1/cmr/m/n/5=cmr5
+\font\OT1/cmr/m/n/7=cmr7
+\font\OT1/cmr/m/n/10=cmr10
+\font\OML/cmm/m/it/5=cmmi5
+\font\OML/cmm/m/it/7=cmmi7
+\font\OML/cmm/m/it/10=cmmi10
+\font\OMS/cmsy/m/n/5=cmsy5
+\font\OMS/cmsy/m/n/7=cmsy7
+\font\OMS/cmsy/m/n/10=cmsy10
+14 preloaded fonts
+0 words of pdf memory
+0 indirect objects
+No pages of output.
+Transcript written on lualatex.log.
+fmtutil [INFO]: /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/web2c/luatex/lualatex.fmt installed.
+fmtutil [INFO]: --- remaking pdflatex with pdftex
+fmtutil: running `pdftex -ini   -jobname=pdflatex -progname=pdflatex -translate-file=cp227.tcx *pdflatex.ini' ...
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (INITEX)
+ restricted \write18 enabled.
+ (/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-dist/web2c/cp227.tcx)
+entering extended mode
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/latexconfig/pdflatex.ini
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/config/pdftexconfig.tex)
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/latex.ltx
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/texsys.cfg)
+./texsys.aux found
+
+
+\@currdir set to: ./.
+
+
+Assuming \openin and \input 
+have the same search path.
+
+
+Defining UNIX/DOS style filename parser.
+
+catcodes, registers, compatibility for TeX 2,  parameters,
+LaTeX2e <2015/10/01> patch level 2
+hacks, control, par, spacing, files, font encodings, lengths,
+====================================
+
+Local config file fonttext.cfg used
+
+====================================
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/fonttext.cfg
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/fonttext.ltx
+=== Don't modify this file, use a .cfg file instead ===
+
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/omlenc.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/t1enc.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/ot1enc.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/omsenc.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/t1cmr.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/ot1cmr.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/ot1cmss.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/ot1cmtt.fd)))
+====================================
+
+Local config file fontmath.cfg used
+
+====================================
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/fontmath.cfg
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/fontmath.ltx
+=== Don't modify this file, use a .cfg file instead ===
+
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/omlcmm.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/omscmsy.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/omxcmex.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/ucmr.fd)))
+====================================
+
+Local config file preload.cfg used
+
+=====================================
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/preload.cfg
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/preload.ltx)) page nos., x-ref, environments,
+center, verbatim, math definitions, boxes, title, sectioning, contents,
+floats, footnotes, index, bibliography, output,
+===========================================
+Local configuration file hyphen.cfg used
+===========================================
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/babel/hyphen.cfg
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/babel/switch.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/hyphen.tex)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/dumyhyph.tex)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/zerohyph.tex))
+ ) )
+Beginning to dump on file pdflatex.fmt
+ (preloaded format=pdflatex 2015.12.21)
+5031 strings of total length 72234
+44212 memory locations dumped; current usage is 144&43618
+3378 multiletter control sequences
+\font\nullfont=nullfont
+\font\OMX/cmex/m/n/10=cmex10
+\font\tenln=line10
+\font\tenlnw=linew10
+\font\tencirc=lcircle10
+\font\tencircw=lcirclew10
+\font\OT1/cmr/m/n/5=cmr5
+\font\OT1/cmr/m/n/7=cmr7
+\font\OT1/cmr/m/n/10=cmr10
+\font\OML/cmm/m/it/5=cmmi5
+\font\OML/cmm/m/it/7=cmmi7
+\font\OML/cmm/m/it/10=cmmi10
+\font\OMS/cmsy/m/n/5=cmsy5
+\font\OMS/cmsy/m/n/7=cmsy7
+\font\OMS/cmsy/m/n/10=cmsy10
+3633 words of font info for 14 preloaded fonts
+14 hyphenation exceptions
+Hyphenation trie of length 6081 has 183 ops out of 35111
+  2 for language 1
+  181 for language 0
+0 words of pdfTeX memory
+0 indirect objects
+No pages of output.
+Transcript written on pdflatex.log.
+fmtutil [INFO]: /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/web2c/pdftex/pdflatex.fmt installed.
+fmtutil [INFO]: --- remaking latex with pdftex
+fmtutil: running `pdftex -ini   -jobname=latex -progname=latex -translate-file=cp227.tcx *latex.ini' ...
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (INITEX)
+ restricted \write18 enabled.
+ (/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-dist/web2c/cp227.tcx)
+entering extended mode
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/latexconfig/latex.ini
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/config/pdftexconfig.tex)
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/latex.ltx
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/texsys.cfg)
+./texsys.aux found
+
+
+\@currdir set to: ./.
+
+
+Assuming \openin and \input 
+have the same search path.
+
+
+Defining UNIX/DOS style filename parser.
+
+catcodes, registers, compatibility for TeX 2,  parameters,
+LaTeX2e <2015/10/01> patch level 2
+hacks, control, par, spacing, files, font encodings, lengths,
+====================================
+
+Local config file fonttext.cfg used
+
+====================================
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/fonttext.cfg
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/fonttext.ltx
+=== Don't modify this file, use a .cfg file instead ===
+
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/omlenc.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/t1enc.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/ot1enc.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/omsenc.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/t1cmr.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/ot1cmr.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/ot1cmss.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/ot1cmtt.fd)))
+====================================
+
+Local config file fontmath.cfg used
+
+====================================
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/fontmath.cfg
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/fontmath.ltx
+=== Don't modify this file, use a .cfg file instead ===
+
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/omlcmm.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/omscmsy.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/omxcmex.fd)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/ucmr.fd)))
+====================================
+
+Local config file preload.cfg used
+
+=====================================
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/preload.cfg
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/latex/base/preload.ltx)) page nos., x-ref, environments,
+center, verbatim, math definitions, boxes, title, sectioning, contents,
+floats, footnotes, index, bibliography, output,
+===========================================
+Local configuration file hyphen.cfg used
+===========================================
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/babel/hyphen.cfg
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/babel/switch.def)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/hyphen.tex)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/dumyhyph.tex)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/zerohyph.tex))
+ ) )
+Beginning to dump on file latex.fmt
+ (preloaded format=latex 2015.12.21)
+5030 strings of total length 72208
+44209 memory locations dumped; current usage is 144&43615
+3378 multiletter control sequences
+\font\nullfont=nullfont
+\font\OMX/cmex/m/n/10=cmex10
+\font\tenln=line10
+\font\tenlnw=linew10
+\font\tencirc=lcircle10
+\font\tencircw=lcirclew10
+\font\OT1/cmr/m/n/5=cmr5
+\font\OT1/cmr/m/n/7=cmr7
+\font\OT1/cmr/m/n/10=cmr10
+\font\OML/cmm/m/it/5=cmmi5
+\font\OML/cmm/m/it/7=cmmi7
+\font\OML/cmm/m/it/10=cmmi10
+\font\OMS/cmsy/m/n/5=cmsy5
+\font\OMS/cmsy/m/n/7=cmsy7
+\font\OMS/cmsy/m/n/10=cmsy10
+3633 words of font info for 14 preloaded fonts
+14 hyphenation exceptions
+Hyphenation trie of length 6081 has 183 ops out of 35111
+  2 for language 1
+  181 for language 0
+0 words of pdfTeX memory
+0 indirect objects
+No pages of output.
+Transcript written on latex.log.
+fmtutil [INFO]: /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/web2c/pdftex/latex.fmt installed.
+fmtutil [INFO]: --- remaking mptopdf with pdftex
+fmtutil: running `pdftex -ini   -jobname=mptopdf -progname=context -translate-file=cp227.tcx mptopdf.tex' ...
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (INITEX)
+ restricted \write18 enabled.
+ (/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-dist/web2c/cp227.tcx)
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/context/mptopdf/mptopdf.tex
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/context/base/syst-tex.mkii
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/base/plain.tex Preloading the plain format: codes,
+registers, parameters, fonts,
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+more fonts,
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping \font in plain
+skipping scaled \font in plain
+skipping scaled \font in plain
+skipping scaled \font in plain
+skipping \font in plain
+skipping \skewchar in plain
+skipping \skewchar in plain
+skipping \skewchar in plain
+skipping \skewchar in plain
+skipping \skewchar in plain
+skipping \skewchar in plain
+skipping \textfont in plain
+skipping \scriptfont in plain
+skipping \scriptscriptfont in plain
+skipping \textfont in plain
+skipping \scriptfont in plain
+skipping \scriptscriptfont in plain
+skipping \textfont in plain
+skipping \scriptfont in plain
+skipping \scriptscriptfont in plain
+skipping \textfont in plain
+skipping \scriptfont in plain
+skipping \scriptscriptfont in plain
+skipping \textfont in plain
+skipping \textfont in plain
+skipping \textfont in plain
+skipping \scriptfont in plain
+skipping \scriptscriptfont in plain
+skipping \textfont in plain
+macros, math definitions,
+skipping used \tenex in plain
+output routines, hyphenation
+skipping \input in plain
+skipping \tenrm in plain
+))
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/context/base/supp-mis.mkii
+loading : ConTeXt Support Macros / Miscellaneous (2004.10.26)
+)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/context/base/supp-pdf.mkii
+loading : ConTeXt Support Macros / PDF
+)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/context/base/supp-mpe.mkii
+loading : ConTeXt Support Macros / MPS extensions
+) )
+Beginning to dump on file mptopdf.fmt
+ (preloaded format=mptopdf 2015.12.21)
+3286 strings of total length 49694
+13893 memory locations dumped; current usage is 116&13746
+1661 multiletter control sequences
+\font\nullfont=nullfont
+0 words of font info for 0 preloaded fonts
+0 hyphenation exceptions
+Hyphenation trie of length 256 has 0 ops out of 35111
+0 words of pdfTeX memory
+0 indirect objects
+No pages of output.
+Transcript written on mptopdf.log.
+fmtutil [INFO]: /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/web2c/pdftex/mptopdf.fmt installed.
+fmtutil [INFO]: --- remaking dviluatex with luatex
+fmtutil: running `luatex -ini   -jobname=dviluatex -progname=dviluatex dviluatex.ini' ...
+This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (INITEX)
+ restricted \write18 enabled.
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/config/dviluatex.ini
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/config/luatexiniconfig.tex)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/config/luatex-unicode-letters.tex
+loading Unicode properties)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/config/etex.ini
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/luatex/hyph-utf8/etex.src
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/base/plain.tex Preloading the plain format: codes,
+registers, parameters, fonts, more fonts, macros, math definitions,
+output routines, hyphenation
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/hyphen.tex
+[skipping from \patterns to end-of-file...]))
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/etex/etexdefs.lib Skipping module "grouptypes";
+Loading module "interactionmodes"; Skipping module "nodetypes";
+Skipping module "iftypes";)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-var/tex/generic/config/language.def
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/hyphen.tex))
+Augmenting the Plain TeX definitions: \tracingall;
+Adding new e-TeX definitions: \eTeX, \loggingall, \tracingnone,
+register allocation; extended register allocation; 
+Recycling: \addlanguage, \@nswer (not defined), \@sk, \b@dresponsetrue,
+\b@dresponsefalse, \ch@ckforyn, \mayber@cycle, \et@xabort, \et@xbuf,
+\et@xfmtsrc, \et@xfilehdr, \et@xinf, \et@xpatterns, \l@ngdefnfile, \n@xt,
+\p@rse (not defined), \pr@mpt (not defined), \pr@mptloop (not defined),
+\forcer@cycle, \usef@llback, \usef@llbacktrue, \usef@llbackfalse, 
+Retaining: \et@xerr, \et@xinput, \et@xlibhdr, \et@xmsg, \et@xtoks, \et@xwarn,
+\et@xl@@d, \et@xl@ad, \et@xload, \et@xlang, \et@xhash, \eTeX, \etexhdrchk,
+\etexstatus, \module, \uselanguage, \r@tain, \r@cycle,)))
+Beginning to dump on file dviluatex.fmt
+ (format=dviluatex 2015.12.21)
+3102 strings using 9518 bytes
+68807 memory locations dumped; current usage is 103&7700
+1710 multiletter control sequences
+\font\nullfont=nullfont
+\font\tenrm=cmr10
+\font\preloaded=cmr9
+\font\preloaded=cmr8
+\font\sevenrm=cmr7
+\font\preloaded=cmr6
+\font\fiverm=cmr5
+\font\teni=cmmi10
+\font\preloaded=cmmi9
+\font\preloaded=cmmi8
+\font\seveni=cmmi7
+\font\preloaded=cmmi6
+\font\fivei=cmmi5
+\font\tensy=cmsy10
+\font\preloaded=cmsy9
+\font\preloaded=cmsy8
+\font\sevensy=cmsy7
+\font\preloaded=cmsy6
+\font\fivesy=cmsy5
+\font\tenex=cmex10
+\font\preloaded=cmss10
+\font\preloaded=cmssq8
+\font\preloaded=cmssi10
+\font\preloaded=cmssqi8
+\font\tenbf=cmbx10
+\font\preloaded=cmbx9
+\font\preloaded=cmbx8
+\font\sevenbf=cmbx7
+\font\preloaded=cmbx6
+\font\fivebf=cmbx5
+\font\tentt=cmtt10
+\font\preloaded=cmtt9
+\font\preloaded=cmtt8
+\font\preloaded=cmsltt10
+\font\tensl=cmsl10
+\font\preloaded=cmsl9
+\font\preloaded=cmsl8
+\font\tenit=cmti10
+\font\preloaded=cmti9
+\font\preloaded=cmti8
+\font\preloaded=cmti7
+\font\preloaded=cmu10
+\font\preloaded=cmmib10
+\font\preloaded=cmbsy10
+\font\preloaded=cmcsc10
+\font\preloaded=cmssbx10
+\font\preloaded=cmdunh10
+\font\preloaded=cmr7 at 14.51799pt
+\font\preloaded=cmtt10 at 14.4pt
+\font\preloaded=cmssbx10 at 14.4pt
+\font\preloaded=manfnt
+50 preloaded fonts
+0 words of pdf memory
+0 indirect objects
+No pages of output.
+Transcript written on dviluatex.log.
+fmtutil [INFO]: /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/web2c/luatex/dviluatex.fmt installed.
+fmtutil [INFO]: --- remaking mf with mf-nowin
+fmtutil: running `mf-nowin -ini   -jobname=mf -progname=mf -translate-file=cp227.tcx mf.ini' ...
+This is METAFONT, Version 2.7182818 (TeX Live 2015) (INIMF)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-dist/web2c/cp227.tcx)
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/metafont/config/mf.ini
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/metafont/base/plain.mf
+Preloading the plain base, version 2.71: preliminaries,
+ basic constants and mathematical macros,
+ macros for converting from device-independent units to pixels,
+ macros and tables for various modes of operation,
+ macros for drawing and filling,
+ macros for proof labels and rules,
+ macros for character and font administration,
+and a few last-minute items.)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/metafont/misc/modes.mf) )
+Beginning to dump on file mf.base
+ (preloaded base=mf 2015.12.21)
+2226 strings of total length 30380
+11855 memory locations dumped; current usage is 3651&7844
+1004 symbolic tokens
+Transcript written on mf.log.
+fmtutil [INFO]: /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/web2c/metafont/mf.base installed.
+fmtutil [INFO]: --- remaking etex with pdftex
+fmtutil: running `pdftex -ini   -jobname=etex -progname=etex -translate-file=cp227.tcx *etex.ini' ...
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (INITEX)
+ restricted \write18 enabled.
+ (/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-dist/web2c/cp227.tcx)
+entering extended mode
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/config/etex.ini
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/etex/etex.src
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/base/plain.tex Preloading the plain format: codes,
+registers, parameters, fonts, more fonts, macros, math definitions,
+output routines, hyphenation
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/hyphen.tex
+[skipping from \patterns to end-of-file...]))
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/etex/etexdefs.lib Skipping module "grouptypes";
+Loading module "interactionmodes"; Skipping module "nodetypes";
+Skipping module "iftypes";)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-var/tex/generic/config/language.def
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/hyphen.tex))
+Augmenting the Plain TeX definitions: \tracingall;
+Adding new e-TeX definitions: \eTeX, \loggingall, \tracingnone,
+register allocation; extended register allocation; 
+Recycling: \addlanguage, \@nswer (not defined), \@sk, \b@dresponsetrue,
+\b@dresponsefalse, \ch@ckforyn, \mayber@cycle, \et@xabort, \et@xbuf,
+\et@xfmtsrc, \et@xfilehdr, \et@xinf, \et@xpatterns, \l@ngdefnfile, \n@xt,
+\p@rse (not defined), \pr@mpt (not defined), \pr@mptloop (not defined),
+\forcer@cycle, \usef@llback, \usef@llbacktrue, \usef@llbackfalse, 
+Retaining: \et@xerr, \et@xinput, \et@xlibhdr, \et@xmsg, \et@xtoks, \et@xwarn,
+\et@xl@@d, \et@xl@ad, \et@xload, \et@xlang, \et@xhash, \eTeX, \etexhdrchk,
+\etexstatus, \module, \uselanguage, \r@tain, \r@cycle,) )
+Beginning to dump on file etex.fmt
+ (preloaded format=etex 2015.12.21)
+2880 strings of total length 43848
+7960 memory locations dumped; current usage is 203&7290
+1258 multiletter control sequences
+\font\nullfont=nullfont
+\font\tenrm=cmr10
+\font\preloaded=cmr9
+\font\preloaded=cmr8
+\font\sevenrm=cmr7
+\font\preloaded=cmr6
+\font\fiverm=cmr5
+\font\teni=cmmi10
+\font\preloaded=cmmi9
+\font\preloaded=cmmi8
+\font\seveni=cmmi7
+\font\preloaded=cmmi6
+\font\fivei=cmmi5
+\font\tensy=cmsy10
+\font\preloaded=cmsy9
+\font\preloaded=cmsy8
+\font\sevensy=cmsy7
+\font\preloaded=cmsy6
+\font\fivesy=cmsy5
+\font\tenex=cmex10
+\font\preloaded=cmss10
+\font\preloaded=cmssq8
+\font\preloaded=cmssi10
+\font\preloaded=cmssqi8
+\font\tenbf=cmbx10
+\font\preloaded=cmbx9
+\font\preloaded=cmbx8
+\font\sevenbf=cmbx7
+\font\preloaded=cmbx6
+\font\fivebf=cmbx5
+\font\tentt=cmtt10
+\font\preloaded=cmtt9
+\font\preloaded=cmtt8
+\font\preloaded=cmsltt10
+\font\tensl=cmsl10
+\font\preloaded=cmsl9
+\font\preloaded=cmsl8
+\font\tenit=cmti10
+\font\preloaded=cmti9
+\font\preloaded=cmti8
+\font\preloaded=cmti7
+\font\preloaded=cmu10
+\font\preloaded=cmmib10
+\font\preloaded=cmbsy10
+\font\preloaded=cmcsc10
+\font\preloaded=cmssbx10
+\font\preloaded=cmdunh10
+\font\preloaded=cmr7 at 14.51799pt
+\font\preloaded=cmtt10 at 14.4pt
+\font\preloaded=cmssbx10 at 14.4pt
+\font\preloaded=manfnt
+14787 words of font info for 50 preloaded fonts
+14 hyphenation exceptions
+Hyphenation trie of length 6075 has 181 ops out of 35111
+  181 for language 0
+0 words of pdfTeX memory
+0 indirect objects
+No pages of output.
+Transcript written on etex.log.
+fmtutil [INFO]: /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/web2c/pdftex/etex.fmt installed.
+fmtutil [INFO]: --- remaking pdfetex with pdftex
+fmtutil: running `pdftex -ini   -jobname=pdfetex -progname=pdfetex -translate-file=cp227.tcx *pdfetex.ini' ...
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (INITEX)
+ restricted \write18 enabled.
+ (/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-dist/web2c/cp227.tcx)
+entering extended mode
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/config/pdfetex.ini
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/config/pdftexconfig.tex)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/etex/etex.src
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/base/plain.tex Preloading the plain format: codes,
+registers, parameters, fonts, more fonts, macros, math definitions,
+output routines, hyphenation
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/hyphen.tex
+[skipping from \patterns to end-of-file...]))
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/etex/etexdefs.lib Skipping module "grouptypes";
+Loading module "interactionmodes"; Skipping module "nodetypes";
+Skipping module "iftypes";)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-var/tex/generic/config/language.def
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/generic/hyphen/hyphen.tex))
+Augmenting the Plain TeX definitions: \tracingall;
+Adding new e-TeX definitions: \eTeX, \loggingall, \tracingnone,
+register allocation; extended register allocation; 
+Recycling: \addlanguage, \@nswer (not defined), \@sk, \b@dresponsetrue,
+\b@dresponsefalse, \ch@ckforyn, \mayber@cycle, \et@xabort, \et@xbuf,
+\et@xfmtsrc, \et@xfilehdr, \et@xinf, \et@xpatterns, \l@ngdefnfile, \n@xt,
+\p@rse (not defined), \pr@mpt (not defined), \pr@mptloop (not defined),
+\forcer@cycle, \usef@llback, \usef@llbacktrue, \usef@llbackfalse, 
+Retaining: \et@xerr, \et@xinput, \et@xlibhdr, \et@xmsg, \et@xtoks, \et@xwarn,
+\et@xl@@d, \et@xl@ad, \et@xload, \et@xlang, \et@xhash, \eTeX, \etexhdrchk,
+\etexstatus, \module, \uselanguage, \r@tain, \r@cycle,)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/tex/plain/config/pdftexmagfix.tex) )
+Beginning to dump on file pdfetex.fmt
+ (preloaded format=pdfetex 2015.12.21)
+2890 strings of total length 44523
+7960 memory locations dumped; current usage is 203&7321
+1260 multiletter control sequences
+\font\nullfont=nullfont
+\font\tenrm=cmr10
+\font\preloaded=cmr9
+\font\preloaded=cmr8
+\font\sevenrm=cmr7
+\font\preloaded=cmr6
+\font\fiverm=cmr5
+\font\teni=cmmi10
+\font\preloaded=cmmi9
+\font\preloaded=cmmi8
+\font\seveni=cmmi7
+\font\preloaded=cmmi6
+\font\fivei=cmmi5
+\font\tensy=cmsy10
+\font\preloaded=cmsy9
+\font\preloaded=cmsy8
+\font\sevensy=cmsy7
+\font\preloaded=cmsy6
+\font\fivesy=cmsy5
+\font\tenex=cmex10
+\font\preloaded=cmss10
+\font\preloaded=cmssq8
+\font\preloaded=cmssi10
+\font\preloaded=cmssqi8
+\font\tenbf=cmbx10
+\font\preloaded=cmbx9
+\font\preloaded=cmbx8
+\font\sevenbf=cmbx7
+\font\preloaded=cmbx6
+\font\fivebf=cmbx5
+\font\tentt=cmtt10
+\font\preloaded=cmtt9
+\font\preloaded=cmtt8
+\font\preloaded=cmsltt10
+\font\tensl=cmsl10
+\font\preloaded=cmsl9
+\font\preloaded=cmsl8
+\font\tenit=cmti10
+\font\preloaded=cmti9
+\font\preloaded=cmti8
+\font\preloaded=cmti7
+\font\preloaded=cmu10
+\font\preloaded=cmmib10
+\font\preloaded=cmbsy10
+\font\preloaded=cmcsc10
+\font\preloaded=cmssbx10
+\font\preloaded=cmdunh10
+\font\preloaded=cmr7 at 14.51799pt
+\font\preloaded=cmtt10 at 14.4pt
+\font\preloaded=cmssbx10 at 14.4pt
+\font\preloaded=manfnt
+14787 words of font info for 50 preloaded fonts
+14 hyphenation exceptions
+Hyphenation trie of length 6075 has 181 ops out of 35111
+  181 for language 0
+0 words of pdfTeX memory
+0 indirect objects
+No pages of output.
+Transcript written on pdfetex.log.
+fmtutil [INFO]: /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-var/web2c/pdftex/pdfetex.fmt installed.
+fmtutil [INFO]: Disabled formats: 1
+fmtutil [INFO]: Successfully rebuilt formats: 13
+fmtutil [INFO]: Total formats: 14
+fmtutil [INFO]: exiting with status 0
+running package-specific postactions
+postaction install script for dvipdfmx: perl /var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/tlpkg/tlpostcode/dvipdfmx.pl
+finished with package-specific postactions

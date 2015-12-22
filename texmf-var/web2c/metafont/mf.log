@@ -1,0 +1,23 @@
+This is METAFONT, Version 2.7182818 (TeX Live 2015) (INIMF)  21 DEC 2015 20:19
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/texmf-dist/web2c/cp227.tcx)
+**mf.ini
+
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/metafont/config/mf.ini
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/metafont/base/plain.mf
+Preloading the plain base, version 2.71: preliminaries,
+ basic constants and mathematical macros,
+ macros for converting from device-independent units to pixels,
+ macros and tables for various modes of operation,
+ macros for drawing and filling,
+ macros for proof labels and rules,
+ macros for character and font administration,
+and a few last-minute items.)
+(/var/lib/openshift/567800c80c1e663fd8000164/app-root/runtime/repo/tmp/texlive/
+texmf-dist/metafont/misc/modes.mf) )
+Beginning to dump on file mf.base
+ (preloaded base=mf 2015.12.21)
+2226 strings of total length 30380
+11855 memory locations dumped; current usage is 3651&7844
+1004 symbolic tokens

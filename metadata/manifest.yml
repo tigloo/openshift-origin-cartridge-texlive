@@ -1,0 +1,24 @@
+---
+Name: texlive
+Cartridge-Short-Name: texlive
+Display-Name: TeXLive 2015
+Description: A very small installation of TeXLive
+Version: '2015'
+License: "None"
+Vendor: Till Gerken
+Cartridge-Version: 0.0.1
+Cartridge-Vendor: tillgerken
+Categories:
+- service
+- web_framework
+Provides:
+- texlive
+Cart-Data:
+- Key: OPENSHIFT_TEXLIVE
+  Type: environment
+  Description: An example environment variable using ERB processing
+Publishes:
+Subscribes:
+  set-env:
+    Type: ENV:*
+    Required: false

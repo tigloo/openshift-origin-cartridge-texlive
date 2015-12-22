@@ -1,0 +1,11 @@
+name manfnt-font
+category Package
+revision 35799
+execute addMixedMap manfnt.map
+containersize 25708
+containermd5 60bce5d853d60857ce557bfea2fc7c03
+runfiles size=13
+ texmf-dist/fonts/afm/hoekwater/manfnt-font/manfnt.afm
+ texmf-dist/fonts/map/dvips/manfnt-font/manfnt.map
+ texmf-dist/fonts/type1/hoekwater/manfnt-font/manfnt.pfb
+ texmf-dist/fonts/type1/hoekwater/manfnt-font/manfnt.pfm

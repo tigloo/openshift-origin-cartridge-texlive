@@ -1,0 +1,34 @@
+#!/bin/bash -eu
+
+function start {
+  echo "Starting TeXLive cartridge"
+}
+
+function stop {
+  echo "Stopping TeXLive cartridge"
+}
+
+function restart {
+  stop
+  start
+}
+
+function catchall {
+  echo "not yet implemented"
+}
+
+case "$1" in
+  start)                start ;;
+  stop)                 stop ;;
+  restart)              restart ;;
+  status)               status ;;
+  reload)               catchall ;;
+  tidy)                 catchall ;;
+  pre-build)            catchall ;;
+  build)                catchall ;;
+  deploy)               catchall ;;
+  post-deploy)          catchall ;;
+  *)			exit 0
+esac
+
+exit 0
